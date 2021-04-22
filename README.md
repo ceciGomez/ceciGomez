@@ -7,5 +7,5 @@ Desarrollo consultas en SQL para recopilar información y mostrarla en una heram
 
 
 Puedes encontrarme en
-- [Twitter](https://www.twitter/ceziliag)
+- [Twitter](https://twitter.com/CeziliaG)
 - [Linkedin](https://www.linkedin.com/in/ceziliag)
